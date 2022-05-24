@@ -3,7 +3,7 @@
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import Index from './components/index.vue'
 </script>
-
+ 
 <template>
   <Index/>
 </template>
